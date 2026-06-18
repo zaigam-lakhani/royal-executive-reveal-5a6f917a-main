@@ -1,0 +1,16 @@
+# Synaps Group
+
+> Synaps Group delivers mining expertise, international trade, real estate, agribusiness and social impact projects from Madagascar.
+
+## Pages
+
+- [Home](/): Overview of Synaps Group activities and pillars.
+- [About](/about): Company story, values and sectors of operation.
+- [Mining Services](/services): Consulting, mandate buy & sell, exploration and operations.
+- [Synaps Mining](/mining): Exploration, operations and export of Malagasy minerals.
+- [Synaps Real Estate](/real-estate): Premium properties in Madagascar — Sahaza, Ambohimarina, Mahajanga, Sainte-Marie.
+- [Synaps Agribusiness](/agribusiness): Sustainable agriculture, agro-processing and food security.
+- [Trade & Export](/trade): International trade of sea sands, river sands, red soils and chrome ore.
+- [Projects](/projects): Flagship projects across mining, real estate, trade and impact.
+- [Association Neurones Madagascar](/association): Non-profit serving 5,000+ Malagasy students.
+- [Contact](/contact): Get in touch with the Synaps Group team.
